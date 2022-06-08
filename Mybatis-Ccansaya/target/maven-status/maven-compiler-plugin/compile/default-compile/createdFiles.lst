@@ -1,0 +1,7 @@
+com\example\mybatis02\model\Actor.class
+com\example\mybatis02\service\ActorService.class
+com\example\mybatis02\serviceImpl\ActorServiceImpl.class
+com\example\mybatis02\Mybatis02Application.class
+com\example\mybatis02\controller\HomeController.class
+com\example\mybatis02\controller\ActorRestController.class
+com\example\mybatis02\repository\ActorMyBatisRepository.class
